@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Pablo, a Front-end programmer and artist based in Düsseldorf - Germany.<br>
 
 
