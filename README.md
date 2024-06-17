@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pablo, a programmer on the making based in Düsseldorf - Germany. Currently learning Full Stack @Supercode.<br>
+Hi, I'm Pablo, a Front-end programmer and artist based in Düsseldorf - Germany.<br>
 
 
 # 💻 Tech Stack:
