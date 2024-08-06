@@ -9,5 +9,8 @@ Here are some of my repositories:
 - [Pablo Beck Portfolio](https://github.com/pablobeckg/pablogb) - [Site](https://pablogb.com)
 - [Pokedex](https://github.com/pablobeckg/Pokedex) - [Site](https://pokedexpablo.netlify.app/)
 - [Yummy](https://github.com/pablobeckg/Yummy) - [Site](https://yummypablo.netlify.app)
+- [New Interior](https://github.com/pablobeckg/new_interior) - [Site](https://newinteriorpablo.netlify.app/)
+- [Cosmo](https://github.com/pablobeckg/cosmo) - [Site](https://cosmopablo.netlify.app)
+- [Rock Paper Scissors](https://github.com/pablobeckg/rock_paper_scissors) - [Site](https://rockpaperscissorspablo.netlify.app)
 
 Feel free to check them out!
