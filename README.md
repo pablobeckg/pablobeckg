@@ -6,7 +6,7 @@
 
 Here are some of my repositories:
 
-- [Pablo Beck Portfolio]([https://github.com/pablobeckg/pablogb]) [Site]([https://pablobeckg.com])
+- [Pablo Beck Portfolio](https://github.com/pablobeckg/pablogb) [Site](https://pablobeckg.com)
 - [Repository 2](https://github.com/pablobeckg/repository2)
 - [Repository 3](https://github.com/pablobeckg/repository3)
 
