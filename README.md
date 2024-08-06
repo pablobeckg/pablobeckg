@@ -6,10 +6,8 @@
 
 Here are some of my repositories:
 
-
-- <a href="https://pablogb.com" target="_blank">Repository 1</a>
 - [Pablo Beck Portfolio](https://github.com/pablobeckg/pablogb) - [Site](https://pablogb.com)
-- [Repository 2](https://github.com/pablobeckg/repository2)
-- [Repository 3](https://github.com/pablobeckg/repository3)
+- [Pokedex](https://github.com/pablobeckg/Pokedex) - [Site](https://pokedexpablo.netlify.app/)
+- [Yummy](https://github.com/pablobeckg/Yummy) - [Site](https://yummypablo.netlify.app)
 
 Feel free to check them out!
