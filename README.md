@@ -12,6 +12,7 @@ Here are some of my repositories:
 - 🏠 [New Interior](https://github.com/pablobeckg/new_interior) - [Site](https://newinteriorpablo.netlify.app/)
 - 📋 [Cosmo](https://github.com/pablobeckg/cosmo) - [Site](https://cosmopablo.netlify.app)
 - ✂️ [Rock Paper Scissors](https://github.com/pablobeckg/rock_paper_scissors) - [Site](https://rockpaperscissorspablo.netlify.app)
+- 💿 [Todo List](https://github.com/pablobeckg/records) - [Site](https://recordspablo.netlify.app)
 - 📝 [Todo List](https://github.com/pablobeckg/todo) - [Site](https://todopablo.netlify.app)
 
 
