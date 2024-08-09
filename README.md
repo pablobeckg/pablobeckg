@@ -8,6 +8,7 @@ Here are some of my repositories:
 
 - 🌐 [Pablo Beck Portfolio](https://github.com/pablobeckg/pablogb) - [Site](https://pablogb.com) (HTML, CSS, TypeScript, Vite, React)
 - 🐥 [Pokedex](https://github.com/pablobeckg/Pokedex) - [Site](https://pokedexpablo.netlify.app/) (HTML, CSS, TypeScript, Vite, React)
+- 🛒 [Fake Store](https://github.com/pablobeckg/fake-store) - [Site](https://fakestorepablo.netlify.app/) (HTML, CSS, TypeScript, Vite, React)
 - 🍳 [Yummy](https://github.com/pablobeckg/Yummy) - [Site](https://yummypablo.netlify.app) (HTML, CSS, TypeScript, Vite, React)
 - 💊 [Calories Calculator](https://github.com/pablobeckg/calorie_calculator) - [Site](https://caloriecalculatorpablo.netlify.app) (HTML, CSS, TypeScript, Vite, React)
 - 🏠 [New Interior](https://github.com/pablobeckg/new_interior) - [Site](https://newinteriorpablo.netlify.app/) (HTML, CSS)
