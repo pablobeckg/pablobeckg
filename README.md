@@ -6,15 +6,15 @@
 
 Here are some of my repositories:
 
-- 🌐 [Pablo Beck Portfolio](https://github.com/pablobeckg/pablogb) - [Site](https://pablogb.com)
-- 🐥 [Pokedex](https://github.com/pablobeckg/Pokedex) - [Site](https://pokedexpablo.netlify.app/)
-- 🍳 [Yummy](https://github.com/pablobeckg/Yummy) - [Site](https://yummypablo.netlify.app)
-- 💊 [Calories Calculator](https://github.com/pablobeckg/calorie_calculator) - [Site](https://caloriecalculatorpablo.netlify.app)
-- 🏠 [New Interior](https://github.com/pablobeckg/new_interior) - [Site](https://newinteriorpablo.netlify.app/)
-- 📋 [Cosmo](https://github.com/pablobeckg/cosmo) - [Site](https://cosmopablo.netlify.app)
-- ✂️ [Rock Paper Scissors](https://github.com/pablobeckg/rock_paper_scissors) - [Site](https://rockpaperscissorspablo.netlify.app)
-- 💿 [Records App](https://github.com/pablobeckg/records) - [Site](https://recordspablo.netlify.app)
-- 📝 [Todo List](https://github.com/pablobeckg/todo) - [Site](https://todopablo.netlify.app)
+- 🌐 [Pablo Beck Portfolio](https://github.com/pablobeckg/pablogb) - [Site](https://pablogb.com) (HTML, CSS, TypeScript, Vite, React)
+- 🐥 [Pokedex](https://github.com/pablobeckg/Pokedex) - [Site](https://pokedexpablo.netlify.app/) (HTML, CSS, TypeScript, Vite, React)
+- 🍳 [Yummy](https://github.com/pablobeckg/Yummy) - [Site](https://yummypablo.netlify.app) (HTML, CSS, TypeScript, Vite, React)
+- 💊 [Calories Calculator](https://github.com/pablobeckg/calorie_calculator) - [Site](https://caloriecalculatorpablo.netlify.app) (HTML, CSS, TypeScript, Vite, React)
+- 🏠 [New Interior](https://github.com/pablobeckg/new_interior) - [Site](https://newinteriorpablo.netlify.app/) (HTML, CSS)
+- 📋 [Cosmo](https://github.com/pablobeckg/cosmo) - [Site](https://cosmopablo.netlify.app) (HTML, CSS, TypeScript, Vite, React)
+- ✂️ [Rock Paper Scissors](https://github.com/pablobeckg/rock_paper_scissors) - [Site](https://rockpaperscissorspablo.netlify.app) (HTML, CSS, TypeScript, Vite)
+- 💿 [Records App](https://github.com/pablobeckg/records) - [Site](https://recordspablo.netlify.app) (HTML, CSS, TypeScript, Vite)
+- 📝 [Todo List](https://github.com/pablobeckg/todo) - [Site](https://todopablo.netlify.app) (HTML, CSS, JavaScript)
 
 
 Feel free to check them out!
