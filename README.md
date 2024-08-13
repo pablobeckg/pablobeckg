@@ -12,8 +12,6 @@
 
 ## My GitHub Repositories
 
-Here are some of my repositories:
-
 - 🌐 [Pablo Beck Portfolio](https://github.com/pablobeckg/pablogb) - [Site](https://pablogb.com) (HTML, CSS, TypeScript, Vite, React)
 - 🐥 [Pokedex](https://github.com/pablobeckg/Pokedex) - [Site](https://pokedexpablo.netlify.app/) (HTML, CSS, TypeScript, Vite, React, REST-API)
 - 🛒 [Fake Store](https://github.com/pablobeckg/fake-store) - [Site](https://fakestorepablo.netlify.app/) (HTML, CSS, TypeScript, Vite, React, REST-API)
