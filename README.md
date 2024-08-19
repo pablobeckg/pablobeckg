@@ -10,7 +10,7 @@
 ## My GitHub Repositories
 
 - 🌐 [Pablo Beck Portfolio](https://github.com/pablobeckg/pablogb) - [Site](https://pablogb.com) (HTML, CSS, TypeScript, Vite, React)
-- 🗒️ [Recipes](https://github.com/pablobeckg/Recipes) - [Site](https://recipespablo.netlify.app/) (Supabase, HTML, CSS, TypeScript, Vite, React)
+- 🗒️ [Recipes (in progress)](https://github.com/pablobeckg/Recipes) - [Site](https://recipespablo.netlify.app/) (Supabase, HTML, CSS, TypeScript, Vite, React)
 - 🐥 [Pokedex](https://github.com/pablobeckg/Pokedex) - [Site](https://pokedexpablo.netlify.app/) (HTML, CSS, TypeScript, Vite, React, REST-API)
 - 🛒 [Fake Store](https://github.com/pablobeckg/fake-store) - [Site](https://fakestorepablo.netlify.app/) (HTML, CSS, TypeScript, Vite, React, REST-API)
 - 🍳 [Yummy](https://github.com/pablobeckg/Yummy) - [Site](https://yummypablo.netlify.app) (HTML, CSS, TypeScript, Vite, React, REST-API)
