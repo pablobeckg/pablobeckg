@@ -15,7 +15,7 @@
 - 🌐 [Pablo Beck Portfolio](https://github.com/pablobeckg/pablogb) - [Site](https://pablogb.com) (HTML, CSS, TypeScript, Vite, React)
 - 🗒️ [Recipes (in progress)](https://github.com/pablobeckg/Recipes) - [Site](https://recipespablo.netlify.app/) (Supabase, HTML, CSS, TypeScript, Vite, React)
 - 🐥 [Pokedex](https://github.com/pablobeckg/Pokedex) - [Site](https://pokedexpablo.netlify.app/) (HTML, CSS, TypeScript, Vite, React, REST-API)
-- - 🐥 [Original Clothing](https://github.com/pablobeckg/Original-Clothing) (HTML, CSS, TypeScript, Angular)
+- 👕 [Original Clothing](https://github.com/pablobeckg/Original-Clothing) (HTML, CSS, TypeScript, Angular)
 - 🛒 [Fake Store](https://github.com/pablobeckg/fake-store) - [Site](https://fakestorepablo.netlify.app/) (HTML, CSS, TypeScript, Vite, React, REST-API)
 - 🍳 [Yummy](https://github.com/pablobeckg/Yummy) - [Site](https://yummypablo.netlify.app) (HTML, CSS, TypeScript, Vite, React, REST-API)
 - 💊 [Calories Calculator](https://github.com/pablobeckg/calorie_calculator) - [Site](https://caloriecalculatorpablo.netlify.app) (HTML, CSS, TypeScript, Vite, React)
