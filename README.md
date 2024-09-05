@@ -14,6 +14,7 @@
 ## My GitHub Repositories
 
 - 🌐 [Pablo Beck Portfolio](https://github.com/pablobeckg/pablogb) - [Site](https://pablogb.com) (HTML, CSS, TypeScript, Vite, React)
+- 📅 [Event Pilot (In process)](https://github.com/pablobeckg/EventPilot) - [Site](https://eventpilot.netlify.app/) (Supabase, HTML, CSS, TypeScript, Vite, React)
 - 🗒️ [Recipes](https://github.com/pablobeckg/Recipes) - [Site](https://recipespablo.netlify.app/) (Supabase, HTML, CSS, TypeScript, Vite, React)
 - 🐥 [Pokedex](https://github.com/pablobeckg/Pokedex) - [Site](https://pokedexpablo.netlify.app/) (HTML, CSS, TypeScript, Vite, React, REST-API)
 - 👕 [Original Clothing](https://github.com/pablobeckg/Original-Clothing) (HTML, CSS, TypeScript, Angular)
